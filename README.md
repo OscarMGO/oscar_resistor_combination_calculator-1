@@ -60,3 +60,19 @@ Institution: Yaba College Of Technology
 Department: Mechatronic Engineering
 
 Institution: Yaba College of Technology
+
+8. How to Run It
+
+1. Install Python on your computer.
+2. Download or clone this GitHub repository.
+3. Open the project folder in Visual Studio Code.
+4. Run the resistor_calculator.py file.
+5. Enter the number of resistors and their resistance values when prompted.
+
+9. My Own Twist
+
+I added a comparison feature that checks the series and parallel resistance results and tells the user which connection has the higher resistance.
+
+10. What I Learned
+
+Through this project, I learned how to use Python functions, lists, loops, conditional statements, user input, and error handling. I also improved my understanding of series and parallel resistor combinations.
